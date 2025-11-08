@@ -1,0 +1,6 @@
+region         = "ap-south-1"
+profile        = "default"
+ami_id         = "ami-0305d3d91b9f22e84"
+instance_type  = "t2.micro"
+key_name       = "Terrform_Practice"
+instance_name  = "Terraform-EC2"
